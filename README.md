@@ -80,7 +80,7 @@ ai_agent_system_from_scratch/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/A-L-E-X-W/ai-agent.git
+git clone https://github.com/HelixCipher/ai-agent.git
 
 
 cd ai-agent
